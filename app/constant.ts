@@ -102,6 +102,10 @@ export const DEFAULT_MODELS = [
     available: true,
   },
   {
+    name: "deepseek-chat",
+    available: true,
+  },
+  {
     name: "glm-4",
     available: true,
   },
