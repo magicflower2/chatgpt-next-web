@@ -102,6 +102,14 @@ export const DEFAULT_MODELS = [
     available: true,
   },
   {
+    name: "glm-4",
+    available: true,
+  },
+  {
+    name: "glm-3-turbo",
+    available: true,
+  },
+  {
     name: "gpt-4-0314",
     available: true,
   },
